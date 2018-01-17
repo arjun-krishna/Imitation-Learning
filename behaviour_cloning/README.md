@@ -1,0 +1,1 @@
+./behaviour_clone.py ../expert/{envname}.pkl {envname} --num_rollouts 5 --render
